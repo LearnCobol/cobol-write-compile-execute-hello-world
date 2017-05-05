@@ -3,5 +3,5 @@ Cobol Hello World: Write, Compile and Execute Cobol on Linux OS
 
 Write a Hello World Cobol Program
 
-Create the helloworld program using your favorite editor
+Create helloworld.cbl program using your favorite editor
 
