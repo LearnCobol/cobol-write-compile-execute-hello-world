@@ -20,7 +20,7 @@ Cobol Hello World: Write, Compile and Execute Cobol on Linux OS
 
     If Cobol compiler is missing, install it:
 
-    $ sudo apt-get install open-cobol
+    $ sudo apt-get -y install open-cobol
 
 3. Compile the Cobol program
 
