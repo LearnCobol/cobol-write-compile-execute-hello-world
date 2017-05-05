@@ -27,8 +27,7 @@ Cobol Hello World: Write, Compile and Execute Cobol on Linux OS
     $ cobc -free -x -o helloworld-exe helloworld
 
     $ ls
-  
-    helloworld  helloworld-exe*
+    helloworld  helloworld.exe*
 
       -free – use free source format. Without this option cobol program requires certain format.
       -x – build executable program.
