@@ -3,7 +3,7 @@ Cobol Hello World: Write, Compile and Execute Cobol on Linux OS
 
 1. Write the Hello World Cobol Program
 
-Create helloworld.cbl program using your favorite editor.
+  Create helloworld.cbl program using your favorite editor.
 
 2. Make sure Cobol Compiler is installed on your system
 
