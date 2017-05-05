@@ -1,4 +1,5 @@
 # cobol-write-compile-execute-hello-world
+
 Cobol Hello World: Write, Compile and Execute Cobol on Linux OS
 
 1. Write the Hello World Cobol Program
@@ -7,8 +8,8 @@ Cobol Hello World: Write, Compile and Execute Cobol on Linux OS
 
 2. Make sure Cobol Compiler is installed on your system
 
-  $ whereis cobc
-  cobc: /usr/bin/cobc /usr/share/man/man1/cobc.1.gz
+    $ whereis cobc
+    cobc: /usr/bin/cobc /usr/share/man/man1/cobc.1.gz
 
   $ which cobc
   /usr/bin/cobc
