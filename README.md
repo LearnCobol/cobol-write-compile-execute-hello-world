@@ -39,5 +39,5 @@ Cobol Hello World: Write, Compile and Execute Cobol on Linux OS
 
   Execute by mentioning the program name.
 
-    $./helloworld-exe
+    $./helloworld.exe
     Hello World!
