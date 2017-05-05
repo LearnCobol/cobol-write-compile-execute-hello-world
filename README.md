@@ -16,13 +16,13 @@ Cobol Hello World: Write, Compile and Execute Cobol on Linux OS
 
 3. Installing cobc compiler
 
-If Cobol compiler is missing, install it:
+    If Cobol compiler is missing, install it:
 
-   $ sudo apt-get install open-cobol
+    $ sudo apt-get install open-cobol
 
 3. Compile the Cobol program
 
-  Compile the HelloWorld which will create the HelloWorld executable.
+    Compile the HelloWorld which will create the HelloWorld executable.
 
     $ cobc -free -x -o helloworld-exe helloworld
 
@@ -30,9 +30,9 @@ If Cobol compiler is missing, install it:
   
     helloworld  helloworld-exe*
 
-  -free – use free source format. Without this option cobol program requires certain format.
-  -x – build executable program.
-  -o FILE – place the output file into the specified FILE.
+      -free – use free source format. Without this option cobol program requires certain format.
+      -x – build executable program.
+      -o FILE – place the output file into the specified FILE.
 
 4. Execute the cobol Program
 
